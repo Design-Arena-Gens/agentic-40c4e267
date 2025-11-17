@@ -1,0 +1,11 @@
+playwright>=1.40.0
+playwright-stealth>=1.0.6
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+fake-useragent>=1.4.0
+undetected-chromedriver>=3.5.5
+selenium>=4.16.0
+selenium-stealth>=1.0.6
+curl_cffi>=0.6.2
+httpx>=0.25.2
